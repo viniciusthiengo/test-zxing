@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/viniciusthiengo/Desktop/TestZXing/android_zxing/build/intermediates/res/merged/androidTest/debug/menu/history.xml",
+        "source": "/Users/viniciusthiengo/Desktop/TestZXing/android_zxing/build/intermediates/bundles/debug/res/menu/history.xml"
+    },
+    {
+        "merged": "/Users/viniciusthiengo/Desktop/TestZXing/android_zxing/build/intermediates/res/merged/androidTest/debug/menu/encode.xml",
+        "source": "/Users/viniciusthiengo/Desktop/TestZXing/android_zxing/build/intermediates/bundles/debug/res/menu/encode.xml"
+    },
+    {
+        "merged": "/Users/viniciusthiengo/Desktop/TestZXing/android_zxing/build/intermediates/res/merged/androidTest/debug/menu/capture.xml",
+        "source": "/Users/viniciusthiengo/Desktop/TestZXing/android_zxing/build/intermediates/bundles/debug/res/menu/capture.xml"
+    }
+]
